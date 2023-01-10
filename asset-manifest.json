@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/NoraTailor/ping-coming-soon-page-master/static/css/main.8f833c64.css",
-    "main.js": "/NoraTailor/ping-coming-soon-page-master/static/js/main.a7fdadc5.js",
-    "static/media/illustration-dashboard.png": "/NoraTailor/ping-coming-soon-page-master/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
-    "index.html": "/NoraTailor/ping-coming-soon-page-master/index.html",
-    "main.8f833c64.css.map": "/NoraTailor/ping-coming-soon-page-master/static/css/main.8f833c64.css.map",
-    "main.a7fdadc5.js.map": "/NoraTailor/ping-coming-soon-page-master/static/js/main.a7fdadc5.js.map"
+    "main.css": "/ping-coming-soon-page-master/static/css/main.8f833c64.css",
+    "main.js": "/ping-coming-soon-page-master/static/js/main.e4d2b303.js",
+    "static/media/illustration-dashboard.png": "/ping-coming-soon-page-master/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "index.html": "/ping-coming-soon-page-master/index.html",
+    "main.8f833c64.css.map": "/ping-coming-soon-page-master/static/css/main.8f833c64.css.map",
+    "main.e4d2b303.js.map": "/ping-coming-soon-page-master/static/js/main.e4d2b303.js.map"
   },
   "entrypoints": [
     "static/css/main.8f833c64.css",
-    "static/js/main.a7fdadc5.js"
+    "static/js/main.e4d2b303.js"
   ]
 }
