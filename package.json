@@ -2,7 +2,7 @@
 	"name": "ping-coming-soon-page-master",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/noratailor/ping-coming-soon-page-master",
+	"homepage": "https://noratailor.github.io/ping-coming-soon-page-master/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
