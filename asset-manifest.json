@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NoraTailor/ping-coming-soon-page-master.git/static/css/main.8f833c64.css",
+    "main.js": "/NoraTailor/ping-coming-soon-page-master.git/static/js/main.a5aef8dd.js",
+    "static/media/illustration-dashboard.png": "/NoraTailor/ping-coming-soon-page-master.git/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "index.html": "/NoraTailor/ping-coming-soon-page-master.git/index.html",
+    "main.8f833c64.css.map": "/NoraTailor/ping-coming-soon-page-master.git/static/css/main.8f833c64.css.map",
+    "main.a5aef8dd.js.map": "/NoraTailor/ping-coming-soon-page-master.git/static/js/main.a5aef8dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f833c64.css",
+    "static/js/main.a5aef8dd.js"
+  ]
+}
